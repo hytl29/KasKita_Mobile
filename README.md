@@ -11,13 +11,13 @@ Local Server: XAMPP
 Networking: Http
 
 ## Instalasi & Konfigurasi
-1. Persiapan Database & API
+# Persiapan Database & API
   1. Pastikan XAMPP berjalan (Apache & MySQL).
   2. Import database db_kaskita.sql melalui phpMyAdmin.
   3. Letakkan folder backend API (PHP) di dalam direktori htdocs.
   4.  Sesuaikan konfigurasi koneksi database di file PHP Anda.
 
-2. Persiapan Flutter
+# Persiapan Flutter
   1. Buka proyek di Android Studio.
   2. Jalankan perintah berikut di terminal untuk mengambil dependensi:
    ```bash
@@ -26,7 +26,7 @@ Networking: Http
   3. Sesuaikan Base URL API pada kode Dart.
      Catatan: Gunakan IP Laptop Anda (misal: 192.168.x.x) jika menggunakan perangkat fisik, atau 10.0.2.2 jika menggunakan emulator.
 
-3. Running
+# Running
 Hubungkan perangkat Android atau jalankan emulator
 ```bash
     flutter run
