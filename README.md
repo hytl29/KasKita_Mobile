@@ -3,12 +3,12 @@ KasKita adalah aplikasi manajemen kas kelas yang kini bertransformasi dari platf
 Proyek ini merupakan evolusi dari KasKita Web. Dengan berpindah ke Flutter, KasKita menawarkan pengalaman pengguna yang lebih responsif dan fitur yang lebih terintegrasi dengan fungsi smartphone (coming soon).
 
 # Tech Stack
-Frontend: Flutter (Dart)
-IDE: Android Studio / VS Code
-Backend: PHP (sebagai REST API)
-Database: MySQL
-Local Server: XAMPP
-Networking: Http
+- Frontend: Flutter (Dart)
+- IDE: Android Studio / VS Code
+- Backend: PHP (sebagai REST API)
+- Database: MySQL
+- Local Server: XAMPP
+- Networking: Http
 
 # Instalasi & Konfigurasi
 ## Persiapan Database & API
