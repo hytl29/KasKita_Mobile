@@ -1,6 +1,6 @@
 # KasKita Mobile Version
 KasKita adalah aplikasi manajemen kas kelas yang kini bertransformasi dari platform web menjadi aplikasi mobile berbasis Flutter. Aplikasi ini dirancang untuk mempermudah pengelolaan keuangan kelas agar lebih rapi, transparan, dan mudah diakses secara langsung dari smartphone.
-Proyek ini merupakan evolusi dari KasKita Web. Dengan berpindah ke Flutter, KasKita menawarkan pengalaman pengguna yang lebih responsif dan fitur yang lebih terintegrasi dengan fungsi smartphone (coming soon).
+Proyek ini merupakan evolusi dari KasKita Web. Dengan berpindah ke Flutter, KasKita menawarkan pengalaman pengguna yang lebih responsif dan fitur yang lebih terintegrasi dengan fungsi smartphone (mendatang).
 
 # Tech Stack
 - Frontend: Flutter (Dart)
