@@ -22,7 +22,7 @@ Networking: Http
   2. Jalankan perintah berikut di terminal untuk mengambil dependensi:
    ```bash
     flutter pub get
-    ```
+   ```
   3. Sesuaikan Base URL API pada kode Dart.
      Catatan: Gunakan IP Laptop Anda (misal: 192.168.x.x) jika menggunakan perangkat fisik, atau 10.0.2.2 jika menggunakan emulator.
 
@@ -30,4 +30,4 @@ Networking: Http
 Hubungkan perangkat Android atau jalankan emulator
 ```bash
     flutter run
-    ```
+```
