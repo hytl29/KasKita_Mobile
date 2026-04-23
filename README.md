@@ -31,3 +31,7 @@ Hubungkan perangkat Android atau jalankan emulator
 ```bash
     flutter run
 ```
+
+# Note
+Aplikasi ini masih dalam tahap pengembangan aktif. Beberapa fitur mungkin belum berfungsi sepenuhnya dan terus dalam proses penyempurnaan stabilitas.
+Developed by: Hayatul Fattah Kurniawan
