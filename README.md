@@ -1,0 +1,1 @@
+Transformasi KasKita dari aplikasi web (PHP/Bootstrap) ke aplikasi mobile menggunakan Flutter adalah langkah besar untuk meningkatkan aksesibilitas. Karena Anda menggunakan MySQL via XAMPP, struktur komunikasinya akan berubah dari koneksi langsung (server-side rendering) menjadi sistem API (Application Programming Interface).
